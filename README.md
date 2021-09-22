@@ -22,7 +22,7 @@ To echo the JSON body of an HTTP request, call this API:\
 http://<DOMAIN>:<PORT>/body
 ```
 To have text from a file transmitted over an HTTP Request, call this API:\
-**Note: This program must be able to read this file in order for this API to properly work**
+**Note: This program must be able to read this file in order for this API to properly work and the default file to read from is the test.txt which should be in the same directory.**
 ```
 http://<DOMAIN>:<PORT>/body
 ```
