@@ -1,6 +1,8 @@
 # Mock-Server
 This mock server can be used for testing HTTP requests. The server can return the headers of an HTTP request, echo a JSON body back, or have text sent over an HTTP request from a file.
 
+100% written in Go
+
 [Download](https://github.com/akhil-datla/Mock-Server/releases/tag/v1.0)
 
 **NOTE: WINDOWS computers should download the test.txt or create one and save it into the same directory as the mock server program for the default /file API**
