@@ -1,6 +1,8 @@
 # Mock-Server
 This mock server can be used for testing HTTP requests. The server can return the headers of an HTTP request, echo a JSON body back, or have text sent over an HTTP request from a file.
 
+[Download](https://github.com/akhil-datla/Mock-Server/releases/tag/v1.0)
+
 To run the mock server from Terminal, type the following command:
 ```
 ./server
