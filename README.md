@@ -3,6 +3,9 @@ This mock server can be used for testing HTTP requests. The server can return th
 
 100% written in Go
 
+
+**Go is not required to run this mock server**
+
 [Download](https://github.com/akhil-datla/Mock-Server/releases/tag/v1.0)
 
 **NOTE: WINDOWS computers should download the test.txt or create one and save it into the same directory as the mock server program for the default /file API**
