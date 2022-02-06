@@ -1,7 +1,4 @@
 # .goreleaser.yml
-archives:
-- files:
-  - fonts/
 builds:
   - goos:
       - darwin
