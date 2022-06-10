@@ -3,7 +3,6 @@ This mock server can be used for testing HTTP requests. The server can return th
 
 100% written in Go
 
-
 **Go is not required to run this mock server. Download the binary from the link below.**
 
 [Download](https://github.com/akhil-datla/Mock-Server/releases/)
